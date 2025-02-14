@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanyasukhyani
 - 👀 I’m interested in Web development, Coding, Tech, and Cyber Security.
-- 🌱 I’m currently learning Js,Python and AiMl
-- 📫 How to reach me : Instagram @sanya_sukhyani13 
+- 🌱 I’m currently learning C++,Mysql,Shell Scripting.
+- 📫 How to reach me via Mail at sanyasukhyanii13@gmail.com
 - 😄 Pronouns: she/her
 
